@@ -12,3 +12,4 @@
 
 **Important with errors:** 
 if Metro (native/mobile) has bugs, use to start command: `npx expo start --clear`.
+
